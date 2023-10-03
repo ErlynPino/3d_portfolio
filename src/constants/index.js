@@ -24,7 +24,6 @@ import {
     tripguide,
     threejs,
     angular,
-    php,
 } from "../assets";
 
 export const navLinks = [

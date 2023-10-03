@@ -161,19 +161,7 @@ const experiences = [
     //         "Participating in code reviews and providing constructive feedback to other developers.",
     //     ],
     // },
-    // {
-    //     title: "Full stack Developer",
-    //     company_name: "Meta",
-    //     icon: meta,
-    //     iconBg: "#E6DEDD",
-    //     date: "Jan 2023 - Present",
-    //     points: [
-    //         "Developing and maintaining web applications using React.js and other related technologies.",
-    //         "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-    //         "Implementing responsive design and ensuring cross-browser compatibility.",
-    //         "Participating in code reviews and providing constructive feedback to other developers.",
-    //     ],
-    // },
+    
 ];
 
 const testimonials = [
@@ -193,21 +181,14 @@ const testimonials = [
         company: "DEF Corp",
         image: "https://randomuser.me/api/portraits/men/5.jpg",
     },
-    {
-        testimonial:
-            "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
-        name: "Lisa Wang",
-        designation: "CTO",
-        company: "456 Enterprises",
-        image: "https://randomuser.me/api/portraits/women/6.jpg",
-    },
+    
 ];
 
 const projects = [
     {
-        name: "Car Rent",
+        name: "Alquiler de carros",
         description:
-            "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+            "Plataforma basada en web que permite a los usuarios buscar, reservar y administrar alquileres de automóviles de varios proveedores, brindando una solución conveniente y eficiente para las necesidades de transporte.",
         tags: [
             {
                 name: "react",
@@ -223,12 +204,12 @@ const projects = [
             },
         ],
         image: carrent,
-        source_code_link: "https://github.com/",
+        source_code_link: "https://github.com/ErlynPino",
     },
     {
-        name: "Job IT",
+        name: "Trabajo de TI",
         description:
-            "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+            "Aplicación web que permite a los usuarios buscar ofertas de trabajo, ver rangos salariales estimados para puestos y localizar trabajos disponibles según su ubicación actual.",
         tags: [
             {
                 name: "react",
@@ -244,12 +225,12 @@ const projects = [
             },
         ],
         image: jobit,
-        source_code_link: "https://github.com/",
+        source_code_link: "https://github.com/ErlynPino",
     },
     {
-        name: "Trip Guide",
+        name: "Guía de viaje",
         description:
-            "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+            "Una plataforma integral de reserva de viajes que permite a los usuarios reservar vuelos, hoteles y autos de alquiler, y ofrece recomendaciones seleccionadas para destinos populares.",
         tags: [
             {
                 name: "nextjs",
@@ -265,7 +246,7 @@ const projects = [
             },
         ],
         image: tripguide,
-        source_code_link: "https://github.com/",
+        source_code_link: "https://github.com/ErlynPino",
     },
 ];
 

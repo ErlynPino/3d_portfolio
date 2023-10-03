@@ -23,6 +23,8 @@ import {
     jobit,
     tripguide,
     threejs,
+    angular,
+    php,
 } from "../assets";
 
 export const navLinks = [
@@ -50,7 +52,7 @@ const services = [
         icon: mobile,
     },
     {
-        title: "XD - UX UI",
+        title: "Diseñador UX/UI",
         icon: backend,
     },
     // {
@@ -97,8 +99,8 @@ const technologies = [
         icon: mongodb,
     },
     {
-        name: "Three JS",
-        icon: threejs,
+        name: "angular",
+        icon: angular,
     },
     {
         name: "git",
@@ -112,6 +114,7 @@ const technologies = [
         name: "docker",
         icon: docker,
     },
+    
 ];
 
 const experiences = [

@@ -79,6 +79,9 @@ const Experience = () => {
           ))}
         </VerticalTimeline>
       </div>
+      <h2 className={`${styles.sectionHeadText} text-center`}>
+          Habilidades
+        </h2>
     </>
   );
 };
